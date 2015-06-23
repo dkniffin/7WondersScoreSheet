@@ -1,8 +1,6 @@
 Seven Wonders Score Sheet Mobile App for Android
 ================================================
-
-Created by Chris Renke (Lost Concrete) for the "7 Wonders" boardgame
-
+*Created by Chris Renke (Lost Concrete) for the "7 Wonders" boardgame*
 
 The basic premise of the app is to simplify and greatly speed up the scoring
 process for the euro-style boardgame "7 Wonders. The app removes an second
